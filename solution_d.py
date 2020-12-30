@@ -21,6 +21,6 @@ for i in range (0,len(listoflists)):
     
 emptylist.append(actor)
 result=set(result)-set(emptylist)
-print (result)
+print (sorted(result))
         
             
