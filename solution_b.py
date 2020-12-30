@@ -11,7 +11,7 @@ for i in range (0,len(document)):
         if(splitted[j] not in actors):
             actors.append(splitted[j])  
             
-print(actors)
+print(sorted(actors))
 
 file.close()
 
