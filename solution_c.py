@@ -25,8 +25,8 @@ for j in range(1,4):
 union=set(movie1list)|set(movie2list)
 intersection=set(movie1list)&set(movie2list)
 difference=set(union)-set(intersection)
-print(union)
-print(intersection)
-print(difference)
+print(sorted(union))
+print(sorted(intersection))
+print(sorted(difference))
 
 file.close()
