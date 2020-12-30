@@ -24,3 +24,4 @@ result=set(result)-set(emptylist)
 print (sorted(result))
         
             
+file.close()
