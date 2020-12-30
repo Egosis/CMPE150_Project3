@@ -2,7 +2,7 @@
 
 In this project you will be given a simple dataset of films and actors/actresses. There are 20 films and 3 actors/actresses for each film. Do not forget that the document can change and more films could be added as rows to the dataset file.</br>
 
-Exemple dataset:</br></br>
+Exemple dataset:</br>
 
 Becky,Vera Koonce,Van Reynolds,Carlos Hurley</br>
 Captain Underpants: Mega Blissmas,Donald Schoolfield,Robert Black,Anthony Carver</br>
@@ -14,14 +14,14 @@ a-) Print the list of films</br>
 
 | Input  | Output          |
 | ------ | --------------- |
-|  | ['Becky', 'Captain Underpants: Mega Blissmas', 'Invasion']|
+|  | ['Becky', 'Captain Underpants: Mega Blissmas', 'Invasion']|</br>
 
 b-) Print the list of actors/actresses (No multiple occurences!)</br>
 
 
 | Input  | Output          |
 | ------ | --------------- |
-|  | ['Anthony Carver', 'Carlos Hurley', 'Donald Schoolfield', 'Robert Black', 'Van Reynolds', 'Vera Koonce'] |
+|  | ['Anthony Carver', 'Carlos Hurley', 'Donald Schoolfield', 'Robert Black', 'Van Reynolds', 'Vera Koonce'] |</br>
 
 c-) Take two films' name as a parameter, and give</br>
     - Find the all actors in those movies, which is union A | B</br>
@@ -38,7 +38,7 @@ c-) Take two films' name as a parameter, and give</br>
 | --------------- |
 |['Anthony Carver', 'Carlos Hurley', 'Robert Black', 'Van Reynolds', 'Vera Koonce']|
 |['Van Reynolds']|
-|['Anthony Carver', 'Carlos Hurley', 'Robert Black', 'Vera Koonce']|
+|['Anthony Carver', 'Carlos Hurley', 'Robert Black', 'Vera Koonce']|</br>
 
 d-) Given an actors name, find out with whom he/she acted.</br>
 
