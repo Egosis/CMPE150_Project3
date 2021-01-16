@@ -27,7 +27,7 @@ c-) Take two films' name as a parameter, and give</br>
     - Find the all actors in those movies, which is union A | B</br>
     - Find the common actors in those movies, which is intersection A & B,</br>
     - Find the actors that played in either of the movies but not both, which is symmetric difference A - B</br>
-    
+    - Do not forget to separate your inputs with "," !!!
     
 | Input  |
 | ------ | 
