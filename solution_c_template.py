@@ -1,12 +1,11 @@
-movie1=input()
-movie2=input()
-
+movie1, movie2 = input().split(",")
 union=[]
 intersection=[]
 difference=[]
+#DO NOT EDIT ANYTHING ABOVE THIS LINE
 
-#TODO
 
+#DO NOT EDIT ANYTHING BELOW THIS LINE
 print(sorted(union))
 print(sorted(intersection))
 print(sorted(difference))
