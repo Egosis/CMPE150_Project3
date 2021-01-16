@@ -14,14 +14,14 @@ a-) Print the list of films</br>
 
 | Input  | Output          |
 | ------ | --------------- |
-|  | ['Becky', 'Captain Underpants: Mega Blissmas', 'Invasion']|</br>
+| None | ['Becky', 'Captain Underpants: Mega Blissmas', 'Invasion']|</br>
 
 b-) Print the list of actors/actresses (No multiple occurences!)</br>
 
 
 | Input  | Output          |
 | ------ | --------------- |
-|  | ['Anthony Carver', 'Carlos Hurley', 'Donald Schoolfield', 'Robert Black', 'Van Reynolds', 'Vera Koonce'] |</br>
+| None | ['Anthony Carver', 'Carlos Hurley', 'Donald Schoolfield', 'Robert Black', 'Van Reynolds', 'Vera Koonce'] |</br>
 
 c-) Take two films' name as a parameter, and give</br>
     - Find the all actors in those movies, which is union A | B</br>
@@ -31,8 +31,7 @@ c-) Take two films' name as a parameter, and give</br>
     
 | Input  |
 | ------ | 
-| Becky |
-|Captain Underpants: Mega Blissmas | 
+| Becky,Captain Underpants: Mega Blissmas | 
 
 | Output          |
 | --------------- |
