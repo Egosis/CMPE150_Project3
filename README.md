@@ -40,7 +40,7 @@ c-) Take two films' name as a parameter, and give</br>
 |['Van Reynolds']|
 |['Anthony Carver', 'Carlos Hurley', 'Robert Black', 'Vera Koonce']|</br>
 
-d-) Given an actors name, find out with whom he/she acted.</br>
+d-) Given an actors name, find out with whom he/she acted (excluding himself/herself!!!).</br>
 
 | Input  | Output          |
 | ------ | --------------- |
